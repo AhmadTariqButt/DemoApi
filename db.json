@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"urls":[
+		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo",
+		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo",
+		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo",
+		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo",
+		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo",
+		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo"
+		]
+	
 }
