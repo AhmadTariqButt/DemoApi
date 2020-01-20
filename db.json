@@ -1,11 +1,14 @@
-{
-	"urls":[
-		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo",
-		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo",
-		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo",
-		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo",
-		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo",
-		"https://f8d1fd20-2b8e-4cd1-996f-522560a41b01.mock.pstmn.io/demo"
-		]
-	
-}
+[
+  { 
+    "type": "message",
+    "text": "A text message"
+  },
+  {
+    "type": "photo",
+    "url": "https://my-site.com/xvqasd.jpg"
+  },
+  {
+    "type": "like",
+    "date": "2019-02-04T12:59:22+00:00"
+  }
+]
